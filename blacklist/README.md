@@ -80,7 +80,7 @@
 |上海|[依图网络科技有限公司](http://www.yitutech.com/)|2019年4月5日|996|[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
 |深圳|[深圳市环球易购电子商务有限公司](https://www.globalegrow.com/)|2007年5月|大小周、经常996、偶尔通宵|[劳动合同](img/globalegrow_labor_contract.jpg)、[Offer](img/globalegrow_offer.jpg)+亲历|
 |杭州|[杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)|2018年|996|[看准网](https://www.kanzhun.com/pl6448138.html),[知乎](https://www.zhihu.com/question/31379626/answer/399779602),[图片](img/hikvision_fj.png)|
-|杭州|[浙江大华技术股份有限公司](https://www.dahuatech.com/)|2018年|加班|[职业圈](http://www.7360.cc/Review-80253)，[看准网](https://www.kanzhun.com/pl6360251.html)|
+|杭州|[浙江大华技术股份有限公司](https://www.dahuatech.com/)|2018年|99（5.5）大小周无加班费|[职业圈](http://www.7360.cc/Review-80253)，[看准网](https://www.kanzhun.com/pl6360251.html)|
 |杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|[看准网](https://www.kanzhun.com/gsmsh10805642.html),[知乎](https://www.zhihu.com/question/265531337/answer/296562572)
 |深圳|[腾讯](https://www.tencent.com/zh-cn/index.html)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5855.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/30383728/answer/49853422),[知乎](https://www.zhihu.com/question/294418645/answer/494094055)|
 |北京|[小米](https://www.mi.com)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/270788307/answer/356518575)|
